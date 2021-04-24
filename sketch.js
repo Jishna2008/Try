@@ -20,7 +20,7 @@ function setup() {
 
 }
 function draw(){
-    background("yellow")
+    background("red")
     Engine.update(engine);
 box1.display();
 box2.display();
